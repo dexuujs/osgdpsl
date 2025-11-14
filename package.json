@@ -1,0 +1,12 @@
+{
+  "name": "Open-Source GDPS Launcher",
+  "version": "1.0.0",
+  "description": "https://osgdpsl.141412.xyz/2025/11/14/open-source-gdps-launcher-osgdpsl/",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "dexuu",
+  "license": "MIT"
+}
